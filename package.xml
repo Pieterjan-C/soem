@@ -17,6 +17,7 @@
   <url type="bugtracker">https://github.com/mgruhler/soem/issues</url>
 
   <author>Arthur Ketels and M.J.G. van den Molengraft</author>
-
-  <buildtool_depend>catkin</buildtool_depend>
+  
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  
 </package>
